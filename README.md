@@ -1,4 +1,4 @@
 # How to Run
-- alias httpc= "python a1.py"
 
-commands as specified
+- alias httpc= "python a1.py"
+- commands as specified
